@@ -6,4 +6,6 @@ Why? Idk, seemed like a interesting learning experience / research on to if it w
 
 
 ### Sources:
-1. 
+1. https://stackoverflow.com/questions/70149734/how-to-convert-an-image-into-an-array-of-its-raw-pixel-data
+2. https://stackoverflow.com/questions/12201577/how-can-i-convert-an-rgb-image-into-grayscale-in-python
+3. 
